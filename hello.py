@@ -1,2 +1,2 @@
 #i/usr/bin
-print("Hello Woah")
+print("Hello Peter")
